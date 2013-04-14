@@ -1,0 +1,5 @@
+perp (2.07-1) UNRELEASED; urgency=low
+
+  * Initial release. (Closes: #655467)
+
+ -- Carlos Lima <carlos@cpan.org>  Sun, 14 Apr 2013 20:55:07 +0800
