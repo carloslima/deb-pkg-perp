@@ -5,7 +5,7 @@ Vcs-Browser: https://github.com/carloslima/deb-pkg-perp
 Vcs-Git: https://github.com/carloslima/deb-pkg-perp.git
 Section: misc
 Priority: optional
-Standards-Version: 3.9.1
+Standards-Version: 3.9.4
 Build-Depends: debhelper (>= 8)
 
 Package: perp
